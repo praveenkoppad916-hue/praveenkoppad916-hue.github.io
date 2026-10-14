@@ -147,8 +147,8 @@ Bachelor's engineering project focused on automated pesticide spraying principle
 - Jenkins automation initiatives, SOP development, and operational knowledge transfer.
 - 24×7 production-support coordination.
 
-### VSM Infotech — Application / Technical Support Engineer
-**April 2022 – June 2025**
+### FEAT Innovations Pvt Ltd — Technical Support Engineer
+**May 2022 – July 2025**
 
 - L1/L2 enterprise application support.
 - SQL, Linux/Unix, REST API, and backend troubleshooting.
